@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue or, discourse betwixt two old acquaintance of contrary opinions, the way as they were ryding from Northampton neere unto Holmby House, concerning our present government by elders. By O.B.</title>
+            <author>O. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76235</idno>
+            <idno type="STC">Wing B147</idno>
+            <idno type="STC">Thomason E387_3</idno>
+            <idno type="STC">ESTC R201492</idno>
+            <idno type="EEBO-CITATION">99861996</idno>
+            <idno type="PROQUEST">99861996</idno>
+            <idno type="VID">160230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160230)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E387[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue or, discourse betwixt two old acquaintance of contrary opinions, the way as they were ryding from Northampton neere unto Holmby House, concerning our present government by elders. By O.B.</title>
+                  <author>O. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.K.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160230:1" rendition="simple:additions"/>
+            <p>A DIALOGUE OR, DISCOURSE BETWIXT Two old acquaintance of contrary OPINIONS, UPON The way as they were Ryding from <hi>Northampton</hi> neere unto <hi>Holmby</hi> Houſe, Concerning our preſent Govern<g ref="char:EOLhyphen"/>ment by <hi>Elders.</hi>
+            </p>
+            <p>By <hi>O.B.</hi>
+            </p>
+            <p>Printed for <hi>R.K.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:160230:2"/>
+            <pb n="1" facs="tcp:160230:2"/>
+            <head>A Dialogue betweene <hi>Senior John</hi> of of the old houſe, and <hi>Thomas Pot<g ref="char:EOLhyphen"/>gun</hi> a young Presbyterian.</head>
+            <sp>
+               <speaker>Tho. Presbyterian.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">H</seg>Ow now Malignant? what newes hear'ſt thou concerning the King? or when in<g ref="char:EOLhyphen"/>tends he to come to</hi> London, <hi>canst tell? Senior Ioh.</hi> 'Faith I know not, for I thinke hee likes the ayre where he is now, better then he likes the City ayre, eſpecially ſince this laſt Spring.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Your reaſon for't, pray ſir?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Why, both in City and Suburbs ſtrange Planers raigning, hath ſo incumbred <hi>London</hi> and <hi>Weſtminſter</hi> with Elders, gowing faſter then Rew, that they are almoſt crept into the Privy garden.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Why, dare you ſpeak againſt Elders?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Senior Ioh.</speaker>
+               <p>Yes, if they ſproure up like ſo many thornes choking our Wheat, and again, ſuch fruit<g ref="char:EOLhyphen"/>leſſe Trees ought not to comber the ground.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Doe you not read of them in the Apoſtles times?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:160230:3"/>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Yes, and in <hi>Suſanna</hi>'s time too.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Oh, but you ought not to condemne all for two?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Neither ought you to cenſure ſo ſeverely ſo many good ones for the miſdemeanour of one.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>How meane you by that one?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Why, to inlighten your dull capacitie, 'tis this, you vilifie unjuſtly all our reverend and vene<g ref="char:EOLhyphen"/>rable Biſhops, hating the title, and excluding all their labours, though never ſo learned, for the de<g ref="char:EOLhyphen"/>fault of one, in this you do not immitate our Saviour, who deſpiſed not all his Diſciples, though one were a Divell. Againe, did you ever read of one <hi>Si<g ref="char:EOLhyphen"/>monides,</hi> a Heathen, as <hi>Tertullian</hi> relateth in <hi>Liber</hi> 5. how the poore old man was ſo tranſported with joy, hearing how many good Biſhops were at the tranſlating of the Bible, wiſhed himſelfe a Chriſtian, which by the perſwaſions of theſe good men, was accordingly before his death effected. Likewiſe Biſhop <hi>Baylie</hi> writ the <hi>Practiſe of Piety,</hi> but you re<g ref="char:EOLhyphen"/>gard not that.</p>
+            </sp>
+            <sp>
+               <speaker>Th. Pr.</speaker>
+               <p>
+                  <hi>Seriouſly I like this Diſcourſe well, but what more can you ſay then for Biſhops?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Or whither for one thiſtles ſake you would immitate <hi>Samſon</hi>'s Foxes, carrying fire in your tayles, burning up the good graine, and ſo if it
+<pb n="3" facs="tcp:160230:3"/>were poſſible to publiſh your ignorance more viſi<g ref="char:EOLhyphen"/>bly in the world then lately it hath beene. Thus much for Biſhops, now to our preſent govenment in <hi>eſſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>I, that favours well in my eares.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh</speaker>
+               <p>And in my noſe too like a Glyſter-pipe.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Well, Ile ſay no more to you, if you make a ſcoffe of our Church government guided by Elders</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Io.</speaker>
+               <p>Shall I define their pedigree of old, and where they firſt ſprung up.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. pr.</speaker>
+               <p>
+                  <hi>Prithee let me heare that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>My Authour cites us ſundry places of a Stigian Lake called by ſome <hi>ſtix,</hi> by others the dead ſea, but by moſt the ſinke of <hi>sodome,</hi> ſituate for ayre ſo pleaſant<g ref="char:punc">▪</g> that the poore Birds attempting to fly over it, in a ſwelling condition dropt down dread into it; and it is obſerved that part of the river <hi>Tiber</hi> runneth into it, where the pretty ſilver ſcaled fiſhes come wantonly ſwiming in, poſting to their own deſtruction, and there died; on whoſe odoriferous bankes grow two certaine trees, the one bearing Aples as pleaſant to the taſte, as Elder to the ſmell, upon which accurſed tree, it is ſaid that <hi>Iudas</hi> han<g ref="char:EOLhyphen"/>ged himſelfe, a tree altogether unfit for any uſe but the fire.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:160230:4"/>
+               <speaker>Tho. pr.</speaker>
+               <p>
+                  <hi>Why ſure 'tis an argument ſo hot, it cannot hold long?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>No, eſpecially if a ſecond <hi>Ioſhua</hi> gives charge to the Sun to remaine in its fixed horizon or Spheare, whoſe ardent beames muſt needs exhale their ſap from them, and ſo by conſequence leave them in a very dry condition.</p>
+            </sp>
+            <sp>
+               <speaker>Th. Pr.</speaker>
+               <p>
+                  <hi>I muſt needs confeſſe, there's an old Proverb for't, that is,</hi> the dryer they are, the fitter to burne.</p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>And again, if unhappy <hi>Phaiton</hi> ſhould once more prvaile with his Father to guide the Charret of the Sun for one day, and the unskilfull Ladd o're<g ref="char:EOLhyphen"/>throw it, and ſet the world on fire, who would be firſt conſumed; the ſtedfaſt and ſound hearted Oakes, or the rotten withered and inſtable Elders, I leave to any wiſe mans cenſure.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>You harpe too much of this one ſtring, when I met you firſt, I expected you would have acquainted mee with ſome certaine good newes?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>You with ſome certaine good newes, why 'tis too true? I tell you, I'le ſhew you above a thouſand old ſtanders in <hi>London,</hi> to my griefe, be<g ref="char:EOLhyphen"/>ſides ſome hourely dying, but a many daily ſpring<g ref="char:EOLhyphen"/>ing up, Heaven blaſt them in the bloome.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. pr.</speaker>
+               <p>
+                  <hi>Bloome, now beſhrow me, l'ad rather ſee a
+<pb n="5" facs="tcp:160230:4"/>thouſand Triple-crown'd affected perſons, with each man a little Biſhop or two in's belly in Purgatorie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Well, well, ſeeing y'are poſſeſt with ſuch charitable thoughts, I'le have you to underſtand, that there is in ſome fence a Purgatorie provided al<g ref="char:EOLhyphen"/>ready for you, far neerer then the Popes Kitchin.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. pr.</speaker>
+               <p>
+                  <hi>A Purgatorie for us ſir, your meaning in this, I beſeech you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Nay, for all your beſeeching, we mean to doe it.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. pr.</speaker>
+               <p>
+                  <hi>Why, let me heare what you dare doe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Why, to cleare and make a free paſſage a<g ref="char:EOLhyphen"/>gainſt his Majeſties happy returne to <hi>London,</hi> we do intend for to ſpare for no coſt in employing of good ſtore of workmen and labourers, with our owne beſt aſſiſtance, to dig and root out all old ſhrubbed Elders, that lye as ſo many ſtumbling-blocks a<g ref="char:EOLhyphen"/>gainſt the feet of weake conſciences, and ſo convey them by Cart to <hi>Scotland</hi> yard, there to remaine with the ſuperſtitious timber of the late erected Play houſe in White Hall, but this wood muſt lye in the poſture of a very large Bonfire ready to wel<g ref="char:EOLhyphen"/>come the King and his Nobles, at their arrivall to <hi>London,</hi> and in this poſture to remaine till Authority
+<pb n="6" facs="tcp:160230:5"/>ſhall give this laſt word of command, that is, <hi>Give fire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pr.</speaker>
+               <p>
+                  <hi>Once more, let me intreat you to fall upon ſome other diſcourſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sen. Ioh.</speaker>
+               <p>Why then briefly I'le recite you my Dreame the other night.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Pre.</speaker>
+               <p>
+                  <hi>Let me heare it, ſo it be not two tedious?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Se. Ioh.</speaker>
+               <l>
+                  <hi>Me thoughts I ſaw in dead of ſilent night</hi>
+               </l>
+               <l>
+                  <hi>A Comet fixed in the azure skies,</hi>
+               </l>
+               <l>
+                  <hi>Like a victorious Champion arm'd ſo bright,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe ſplendant view dazel'd my weaker eies.</hi>
+               </l>
+               <l>
+                  <hi>My meaning's this, me thoughts I ſaw our King</hi>
+               </l>
+               <l>
+                  <hi>Amidſt his Peeres, in Parliament to ſit:</hi>
+               </l>
+               <l>
+                  <hi>I prais'd the Lord, that he did ſafely bring</hi>
+               </l>
+               <l>
+                  <hi>Our Soveraigne home, whoſe mercies ne're forget;</hi>
+               </l>
+               <l>
+                  <hi>But when I knew it but to be a Dreame,</hi>
+               </l>
+               <l>
+                  <hi>I ſigh'd, and wept, and ſo brake off my theame.</hi>
+               </l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
